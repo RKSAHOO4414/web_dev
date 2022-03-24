@@ -1,0 +1,8 @@
+create database pep
+
+create table gradeT (
+gname char,
+gid numeric,
+);
+drop table if exists gradeT ;
+
